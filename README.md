@@ -9,6 +9,6 @@ Data source: National Institute of Diabetes and Digestive and Kidney Diseases
 Competition page: https://www.kaggle.com/c/competicao-dsa-machine-learning-jan-2019/
 
 Files description:
-* dataset_treino.csv - contains the training dataset.
-* dataset_test.csv - contains the test dataset.
-* sampleSubmission.csv - contains the template for submit the solution.
+* **dataset_treino.csv** - contains the training dataset.
+* **dataset_test.csv** - contains the test dataset.
+* **sampleSubmission.csv** - contains the template for submit the solution.
