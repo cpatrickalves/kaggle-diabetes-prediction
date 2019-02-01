@@ -1,6 +1,6 @@
 # Data Science Academy kaggle Competition
 
-This project presents a code/kernel used in a Kaggle competition promoted by [Data Science Academy](https://www.datascienceacademy.com.br/) **January 2019**.
+This project presents a code/kernel used in a Kaggle competition promoted by [Data Science Academy](https://www.datascienceacademy.com.br/) in **January of 2019**.
 
 The goal of the competition was to create a Machine Learning model to predict the occurrence of diabetes.
 
