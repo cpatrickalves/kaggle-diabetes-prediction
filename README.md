@@ -12,3 +12,5 @@ Files description:
 * **dataset_treino.csv** - contains the training dataset.
 * **dataset_test.csv** - contains the test dataset.
 * **sampleSubmission.csv** - contains the template for submit the solution.
+
+In this competition my best score was 76.27% and I got the position 41 on the leaderboard.
